@@ -1,5 +1,5 @@
 Wikipedia Search Application
-Here we can checkout my page:http://rajeshkumar.localhost:5500/index.html
+Here we can checkout my page:(https://rajeshwiki.netlify.app/)
 
 Refer to the below image.
 ![image](https://github.com/rajeshkumarruppa/Wikipedia-Search-Application/assets/150770437/ab8ee2ad-ad63-4cfe-a6cb-6bb2a5c75990)
